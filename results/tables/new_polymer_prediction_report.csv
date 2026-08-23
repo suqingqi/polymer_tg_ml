@@ -1,0 +1,2 @@
+Sample_Index,Experimental_Tg_K,Predicted_Tg_K,Residual_K,Absolute_Error_K,Max_Train_Tanimoto,Reliability,Nearest_Train_PSMILES,PSMILES,Polymer_Class
+0,553.15,518.93994140625,-34.21005859374998,34.21005859374998,0.7291666666666666,Medium,[*]c1ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(C(c4ccc(Oc5ccc(N6C(=O)c7ccc([*])cc7C6=O)cc5)cc4)(C(F)(F)F)C(F)(F)F)cc3)cc1)C2=O,[*]c1ccc(Oc2ccc(C(c3ccc(Oc4ccc(N5C(=O)c6ccc7c8c(ccc(c68)C5=O)C(=O)N([*])C7=O)cc4)cc3)(C(F)(F)F)C(F)(F)F)cc2)cc1,Polyimides

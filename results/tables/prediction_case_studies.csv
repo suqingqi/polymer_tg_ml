@@ -1,0 +1,4 @@
+Reliability,Sample_ID,Experimental_Tg_K,Predicted_Tg_K,Absolute_Error_K,Max_Train_Tanimoto,PSMILES,Nearest_Train_PSMILES
+High,723,389.15,395.3975,6.247491455078148,0.85,[*]c1ccc2c3ccc(-c4ccc(-c5ccc(-c6ccc([*])s6)c6nccnc56)s4)cc3n(C(CCCCCCCC)CCCCCCCC)c2c1,[*]c1ccc2c3ccc(-c4ccc(-c5ccc(-c6ccc([*])s6)c6nsnc56)s4)cc3n(C(CCCCCCCC)CCCCCCCC)c2c1
+Medium,520,536.15,534.81104,1.3389648437499773,0.7,[*]Nc1ccc(Oc2cccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(Oc5ccc6ccc(Oc7ccc(N8C(=O)c9ccc(C([*])=O)cc9C8=O)cc7)cc6c5)cc3)C4=O)c2)cc1,[*]Nc1ccc(Oc2cccc(NC(=O)c3ccc(Oc4ccc5ccc(Oc6ccc(C([*])=O)cc6)cc5c4)cc3)c2)cc1
+OOD Warning,330,346.15,326.5096,19.6403869628906,0.4,[*]O[Si](C)(C)c1cc(OCCO)c([Si]([*])(C)C)cc1OCCO,[*]O[Si](C)(C)c1ccc([Si]([*])(C)C)c2ccccc12

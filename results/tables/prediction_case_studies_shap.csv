@@ -1,0 +1,25 @@
+Reliability,Sample_ID,Rank,Feature,Feature_Value,SHAP_Value_K,Absolute_SHAP
+High,723,1,fullpolymerlevel.features.num_rotatable_bonds_sum_fullpolymerfeaturizer,18.0,-66.70706,66.70706
+High,723,2,fullpolymerlevel.features.num_rings_sum_fullpolymerfeaturizer,7.0,30.013105,30.013105
+High,723,3,backbonelevel.features.num_rings_sum_backbonefeaturizer,6.0,24.141214,24.141214
+High,723,4,backbonelevel.features.num_rotatable_bonds_sum_backbonefeaturizer,3.0,6.5570197,6.5570197
+High,723,5,backbonelevel.features.topological_surface_area_sum_backbonefeaturizer,12.89,-6.121827,6.121827
+High,723,6,fullpolymerlevel.features.sp2_carbon_count_sum_fullpolymerfeaturizer,33.0,-5.389678,5.389678
+High,723,7,backbonelevel.features.sp2_carbon_count_sum_backbonefeaturizer,29.0,5.371907,5.371907
+High,723,8,backbonelevel.features.sp3_carbon_count_sum_backbonefeaturizer,0.0,4.3400083,4.3400083
+Medium,520,1,fullpolymerlevel.features.num_rings_sum_fullpolymerfeaturizer,10.0,41.377697,41.377697
+Medium,520,2,backbonelevel.features.num_rings_sum_backbonefeaturizer,10.0,26.752323,26.752323
+Medium,520,3,fullpolymerlevel.features.num_hbond_donors_sum_fullpolymerfeaturizer,2.0,11.401662,11.401662
+Medium,520,4,backbonelevel.features.num_rotatable_bonds_sum_backbonefeaturizer,12.0,-9.680006,9.680006
+Medium,520,5,fullpolymerlevel.features.sp2_carbon_count_sum_fullpolymerfeaturizer,65.0,7.444301,7.444301
+Medium,520,6,backbonelevel.features.sp2_carbon_count_sum_backbonefeaturizer,65.0,7.1111345,7.1111345
+Medium,520,7,backbonelevel.features.num_hbond_donors_sum_backbonefeaturizer,2.0,5.762789,5.762789
+Medium,520,8,backbonelevel.features.sp3_carbon_count_sum_backbonefeaturizer,0.0,4.567697,4.567697
+OOD Warning,330,1,fullpolymerlevel.features.num_rings_sum_fullpolymerfeaturizer,1.0,-22.795399,22.795399
+OOD Warning,330,2,backbonelevel.features.num_rings_sum_backbonefeaturizer,1.0,-21.24099,21.24099
+OOD Warning,330,3,fullpolymerlevel.features.num_hbond_donors_sum_fullpolymerfeaturizer,2.0,10.10972,10.10972
+OOD Warning,330,4,backbonelevel.features.balaban_j_index_sum_backbonefeaturizer,3.007046884339858,-9.593496,9.593496
+OOD Warning,330,5,backbonelevel.features.sp2_carbon_count_sum_backbonefeaturizer,6.0,-7.717607,7.717607
+OOD Warning,330,6,fullpolymerlevel.features.sp2_carbon_count_sum_fullpolymerfeaturizer,8.0,-6.193629,6.193629
+OOD Warning,330,7,backbonelevel.features.num_hbond_donors_sum_backbonefeaturizer,0.0,-5.9287624,5.9287624
+OOD Warning,330,8,fullpolymerlevel.features.num_rotatable_bonds_sum_fullpolymerfeaturizer,9.0,-5.530225,5.530225

@@ -1,0 +1,11 @@
+Rank,Feature,Feature_Value,SHAP_Value_K,Absolute_SHAP
+1,fullpolymerlevel.features.num_rings_sum_fullpolymerfeaturizer,8.0,61.819008,61.819008
+2,backbonelevel.features.num_rings_sum_backbonefeaturizer,8.0,13.203276,13.203276
+3,fullpolymerlevel.features.num_rotatable_bonds_sum_fullpolymerfeaturizer,7.0,10.2208,10.2208
+4,backbonelevel.features.sp2_carbon_count_sum_backbonefeaturizer,46.0,7.756589,7.756589
+5,backbonelevel.features.num_rotatable_bonds_sum_backbonefeaturizer,7.0,-6.859875,6.859875
+6,backbonelevel.features.max_estate_index_sum_backbonefeaturizer,13.711924469788071,5.1218896,5.1218896
+7,fullpolymerlevel.features.num_hbond_donors_sum_fullpolymerfeaturizer,0.0,-4.009151,4.009151
+8,fullpolymerlevel.features.max_estate_index_sum_fullpolymerfeaturizer,14.811366626638364,3.1301823,3.1301823
+9,fullpolymerlevel.features.fraction_bicyclic_rings_sum_fullpolymerfeaturizer,0.375,3.1114488,3.1114488
+10,backbonelevel.features.num_hbond_donors_sum_backbonefeaturizer,0.0,-2.966565,2.966565

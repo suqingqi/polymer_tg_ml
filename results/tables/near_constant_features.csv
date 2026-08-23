@@ -1,0 +1,4 @@
+feature,dominant_fraction,unique_values
+backbonelevel.features.triple_bonds_sum_backbonefeaturizer,0.9949776028234016,7
+backbonelevel.features.bromine_count_sum_backbonefeaturizer,0.9930772363241482,4
+sidechainlevel.features.bromine_count_sidechainfeaturizer_sum,0.992670014931451,6

@@ -1,0 +1,4 @@
+Reliability,Sample_ID,Experimental_Tg_K,Predicted_Tg_K,Absolute_Error_K,Max_Train_Tanimoto
+High,723,389.15,395.3975,6.247491455078148,0.85
+Medium,520,536.15,534.81104,1.3389648437499773,0.7
+OOD Warning,330,346.15,326.5096,19.6403869628906,0.4

@@ -1,0 +1,14 @@
+Metric,Value
+Dataset samples,7367
+Model features,99
+Polymer classes,22
+Random test R2,0.8878
+Random test MAE,25.16 K
+5-fold CV R2,0.8846 +/- 0.0110
+Cluster test R2,0.8579
+Cluster test MAE,30.79 K
+Lowest similarity OOD,Tanimoto < 0.40
+Lowest similarity OOD R2,0.6012
+Lowest similarity OOD MAE,50.88 K
+Top SHAP feature,fullpolymerlevel.features.num_rings_sum_fullpolymerfeaturizer
+Top SHAP importance,40.1786
